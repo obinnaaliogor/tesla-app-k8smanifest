@@ -13,7 +13,7 @@ spec:
         name: javawebapp
     spec:
       containers:
-      - image: obinnaaliogor/tesla-app:31
+      - image: obinnaaliogor/tesla-app:32
         name: javawebapp
         ports:
         - name: javawebapp
